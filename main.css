@@ -1,0 +1,37 @@
+.container {
+  width: 420px;
+  margin: 20px auto;
+}
+
+.card {
+  padding: 5px;
+}
+
+.form-group {
+  font-weight: bold;
+  font-size: 80%;
+}
+
+.form-check {
+  font-size: 80%;
+  padding: 10px;
+  margin-left: 15px;
+}
+
+.new_to_amazon {
+  font-size: 73%;
+  padding: 5px;
+}
+
+.col-md-4 {
+  font-size: 65%;
+}
+
+.footer_width {
+  width: 30%;
+  margin-top: 40px;
+}
+
+.col-md-12 {
+  font-size: 80%;
+}
